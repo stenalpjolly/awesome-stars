@@ -415,16 +415,19 @@
 
 ## github 
 
+- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
 - [github/india](https://github.com/github/india) - GitHub resources and information for the developer community in India
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 
 ## github-api 
 
+- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
 
 ## go 
 
+- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [cycloidio/inframap](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
 - [minamijoyo/tfschema](https://github.com/minamijoyo/tfschema) - A schema inspector for Terraform providers
@@ -436,6 +439,7 @@
 
 ## golang 
 
+- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [cycloidio/inframap](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
 - [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
@@ -471,6 +475,7 @@
 
 ## hacktoberfest 
 
+- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
@@ -708,6 +713,7 @@
 
 ## others 
 
+- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [google/cdc-file-transfer](https://github.com/google/cdc-file-transfer) - Tools for synching and streaming files from Windows to Linux
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [corkami/pics](https://github.com/corkami/pics) - File formats explanations, logos redrawing...
