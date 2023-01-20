@@ -47,7 +47,6 @@
 - [dotnet](#dotnet)
 - [electron](#electron)
 - [english](#english)
-- [es6](#es6)
 - [express](#express)
 - [firebase](#firebase)
 - [firefox](#firefox)
@@ -369,10 +368,6 @@
 ## english 
 
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
-
-## es6 
-
-- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 
 ## express 
 
