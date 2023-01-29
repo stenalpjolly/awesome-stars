@@ -293,6 +293,7 @@
 
 ## Python 
 
+- [mandiant/capa](https://github.com/mandiant/capa) - The FLARE team's open-source tool to identify capabilities in executable files.
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
