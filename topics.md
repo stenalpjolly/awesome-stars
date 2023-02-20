@@ -299,7 +299,7 @@
 ## css 
 
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
@@ -344,6 +344,7 @@
 
 ## design 
 
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 - [rampatra/wedding-website](https://github.com/rampatra/wedding-website) - Our Wedding Website 👫
 
@@ -490,9 +491,10 @@
 
 ## hacktoberfest 
 
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
 - [ajayyy/SponsorBlockServer](https://github.com/ajayyy/SponsorBlockServer) - Skip YouTube video sponsors (server side portion)
@@ -522,7 +524,7 @@
 
 ## html 
 
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
@@ -555,10 +557,11 @@
 
 ## javascript 
 
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [ahzhezhe/terraform-generator](https://github.com/ahzhezhe/terraform-generator) - Generate Terraform configurations with Node.js.
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
@@ -704,7 +707,7 @@
 ## nodejs 
 
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
@@ -729,6 +732,7 @@
 
 ## open-source 
 
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [feross/thanks](https://github.com/feross/thanks) - 🙌 Give thanks to the open source maintainers you depend on! ✨
 
 ## opencv 
@@ -744,7 +748,7 @@
 - [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model
 - [t3-oss/create-t3-turbo](https://github.com/t3-oss/create-t3-turbo) - Clean and simple starter repo using the T3 Stack along with Expo React Native
 - [dair-ai/AI-Product-Index](https://github.com/dair-ai/AI-Product-Index) - A curated index to track AI-powered products.
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - NEW - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [google/cdc-file-transfer](https://github.com/google/cdc-file-transfer) - Tools for synching and streaming files from Windows to Linux
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
@@ -850,6 +854,7 @@
 
 ## php 
 
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 
 ## postgresql 
@@ -906,7 +911,7 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [aidenybai/million](https://github.com/aidenybai/million) - Virtual DOM into the future! 🔟🔼6️⃣
@@ -931,7 +936,7 @@
 
 ## reactjs 
 
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [reecelucas/react-use-hotkeys](https://github.com/reecelucas/react-use-hotkeys) - React hook for creating simple keyboard shortcuts
 
@@ -1045,7 +1050,7 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [ahzhezhe/terraform-generator](https://github.com/ahzhezhe/terraform-generator) - Generate Terraform configurations with Node.js.
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
