@@ -115,6 +115,7 @@
 
 ## Go 
 
+- [sibprogrammer/xq](https://github.com/sibprogrammer/xq) - Command-line XML and HTML beautifier and content extractor
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -245,6 +246,7 @@
 
 ## Makefile 
 
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [yaap/device_oneplus_dumpling](https://github.com/yaap/device_oneplus_dumpling) - 
 - [veficos/reverse-engineering-for-beginners](https://github.com/veficos/reverse-engineering-for-beginners) - translate project of Drops
 
