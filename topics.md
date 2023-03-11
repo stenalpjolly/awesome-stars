@@ -762,6 +762,8 @@
 
 ## others 
 
+- [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
+- [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [adafruit/Adafruit-MacroPad-RP2040-PCB](https://github.com/adafruit/Adafruit-MacroPad-RP2040-PCB) - EagleCAD PCB files for Adafruit MacroPad RP2040.
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model
