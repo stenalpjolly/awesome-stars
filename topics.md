@@ -952,7 +952,7 @@
 - [brimdata/react-arborist](https://github.com/brimdata/react-arborist) - The complete tree view component for React
 - [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Advanced and powerful React components for complex use-cases.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [Renovamen/playground-macos](https://github.com/Renovamen/playground-macos) - My portfolio website simulating macOS's GUI, developed with React and UnoCSS.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
@@ -1097,7 +1097,7 @@
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
