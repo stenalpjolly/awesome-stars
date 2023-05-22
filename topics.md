@@ -807,6 +807,7 @@
 
 ## others 
 
+- [jetstack/google-cas-issuer](https://github.com/jetstack/google-cas-issuer) - cert-manager issuer for Google CA Service
 - [SigNoz/flog](https://github.com/SigNoz/flog) - :tophat: A fake log generator for common log formats
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
