@@ -179,7 +179,7 @@
 
 ## Java 
 
-- [dromara/ChatGPT](https://github.com/dromara/ChatGPT) - This project is a plugin that supports ChatGPT running on JetBrains series IDE.
+- [obiscr/ChatGPT](https://github.com/obiscr/ChatGPT) - This project is a plugin that supports ChatGPT running on JetBrains series IDE.
 - [airbnb/lottie-android](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS, Web, and React Native
 - [zzbennett/RegexPerfTest](https://github.com/zzbennett/RegexPerfTest) - A small perf test for comparing the performance of good and bad regexes.
 - [Ajian-studio/GADownloading](https://github.com/Ajian-studio/GADownloading) - A Gorgeous LoadingView (一个绚丽的LoadingView )
