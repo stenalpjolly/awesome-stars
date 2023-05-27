@@ -26,6 +26,7 @@
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Objective-C](#objective-c)
 - [Open Policy Agent](#open-policy-agent)
 - [Others](#others)
 - [PHP](#php)
@@ -263,6 +264,10 @@
 
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 
+## Objective-C 
+
+- [jcsalterego/pngpaste](https://github.com/jcsalterego/pngpaste) - Paste PNG into files, much like pbpaste does for text.
+
 ## Open Policy Agent 
 
 - [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library) - The OPA Gatekeeper policy library.
@@ -457,7 +462,7 @@
 
 ## Zig 
 
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 
 ## License
