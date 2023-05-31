@@ -997,7 +997,7 @@
 - [pierpo/react-archer](https://github.com/pierpo/react-archer) - 🏹 Draw arrows between React elements 🖋
 - [antonioru/beautiful-react-diagrams](https://github.com/antonioru/beautiful-react-diagrams) - 💎 A collection of lightweight React components and hooks to build diagrams with ease 💎
 - [brimdata/react-arborist](https://github.com/brimdata/react-arborist) - The complete tree view component for React
-- [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Advanced and powerful React components for complex use-cases.
+- [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Build data-rich applications using a growing list of advanced React components.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
