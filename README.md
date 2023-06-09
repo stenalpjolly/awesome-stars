@@ -195,7 +195,6 @@
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [serverless-stack/open-next](https://github.com/serverless-stack/open-next) - Open source Next.js serverless adapter
 - [joolfe/postman-to-openapi](https://github.com/joolfe/postman-to-openapi) - 🛸 Convert postman collection to OpenAPI
-- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language.
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
@@ -375,6 +374,7 @@
 ## Shell 
 
 - [apigee/devrel](https://github.com/apigee/devrel) - Common solutions and tools developed for Apigee
+- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [shanept/framebuffer-vnc-server](https://github.com/shanept/framebuffer-vnc-server) - Linux VNC server operating off the framebuffer
 - [rdkcentral/meta-turris](https://github.com/rdkcentral/meta-turris) - External layer for turris omnia
