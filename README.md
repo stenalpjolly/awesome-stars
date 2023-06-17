@@ -218,6 +218,7 @@
 - [covid19india/covid19india-react](https://github.com/covid19india/covid19india-react) - Tracking the impact of COVID-19 in India
 - [Karthick-Somasundaresan/charmviewer](https://github.com/Karthick-Somasundaresan/charmviewer) - A convenient tool for viewing logs.
 - [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js and Deno
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [drenther/js-design-patterns](https://github.com/drenther/js-design-patterns) - This repo contains all the examples for my javascript design pattern article.
 - [feross/thanks](https://github.com/feross/thanks) - 🙌 Give thanks to the open source maintainers you depend on! ✨
 - [sigalor/whatsapp-web-reveng](https://github.com/sigalor/whatsapp-web-reveng) - Reverse engineering WhatsApp Web.
@@ -379,7 +380,6 @@
 - [shanept/framebuffer-vnc-server](https://github.com/shanept/framebuffer-vnc-server) - Linux VNC server operating off the framebuffer
 - [rdkcentral/meta-turris](https://github.com/rdkcentral/meta-turris) - External layer for turris omnia
 - [vitalysim/totalrecon](https://github.com/vitalysim/totalrecon) - TotalRecon installs all the recon tools you need
-- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 
 ## Swift 
 
