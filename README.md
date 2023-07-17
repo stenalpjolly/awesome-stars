@@ -122,6 +122,7 @@
 
 ## Go 
 
+- [GoogleCloudPlatform/guest-agent](https://github.com/GoogleCloudPlatform/guest-agent) - 
 - [jetstack/google-cas-issuer](https://github.com/jetstack/google-cas-issuer) - cert-manager issuer for Google CA Service
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [SigNoz/flog](https://github.com/SigNoz/flog) - :tophat: A fake log generator for common log formats
@@ -396,6 +397,7 @@
 
 ## TypeScript 
 
+- [custodian-sample-org/liftoff](https://github.com/custodian-sample-org/liftoff) - Mock Interview Simulator with AI-Powered Feedback
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
