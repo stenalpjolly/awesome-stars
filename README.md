@@ -167,6 +167,7 @@
 
 ## HCL 
 
+- [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) - Sets up a Cloud VPN gateway
 - [GoogleCloudPlatform/software-delivery-blueprint](https://github.com/GoogleCloudPlatform/software-delivery-blueprint) - 
 - [terraform-google-modules/terraform-google-vm](https://github.com/terraform-google-modules/terraform-google-vm) - Provisions VMs in Google Cloud
 - [terraform-google-modules/terraform-google-bastion-host](https://github.com/terraform-google-modules/terraform-google-bastion-host) - Generates a bastion host VM compatible with OS Login and IAP Tunneling that can be used to access internal VMs
