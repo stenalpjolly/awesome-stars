@@ -172,6 +172,7 @@
 
 ## android 
 
+- [flyerhq/flutter_chat_ui](https://github.com/flyerhq/flutter_chat_ui) - Actively maintained, community-driven chat UI implementation with an optional Firebase BaaS.
 - [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) - 🗺 The 2023 Android Developer Roadmap suggests learning paths to understanding Android development.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [jariz/Noti](https://github.com/jariz/Noti) - Receive Android notifications on your mac. (w/PushBullet) ⛺
@@ -337,6 +338,7 @@
 
 ## dart 
 
+- [flyerhq/flutter_chat_ui](https://github.com/flyerhq/flutter_chat_ui) - Actively maintained, community-driven chat UI implementation with an optional Firebase BaaS.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## data-science 
@@ -453,6 +455,7 @@
 
 ## flutter 
 
+- [flyerhq/flutter_chat_ui](https://github.com/flyerhq/flutter_chat_ui) - Actively maintained, community-driven chat UI implementation with an optional Firebase BaaS.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## font 
@@ -607,6 +610,7 @@
 
 ## ios 
 
+- [flyerhq/flutter_chat_ui](https://github.com/flyerhq/flutter_chat_ui) - Actively maintained, community-driven chat UI implementation with an optional Firebase BaaS.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 
