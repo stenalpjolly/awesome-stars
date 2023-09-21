@@ -125,6 +125,7 @@
 
 ## Go 
 
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [GoogleCloudPlatform/guest-agent](https://github.com/GoogleCloudPlatform/guest-agent) - 
 - [jetstack/google-cas-issuer](https://github.com/jetstack/google-cas-issuer) - cert-manager issuer for Google CA Service
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
