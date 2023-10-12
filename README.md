@@ -385,7 +385,6 @@
 
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [mitsuhiko/similar](https://github.com/mitsuhiko/similar) - A high level diffing library for rust based on diffs
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [haimgel/display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
 
 ## SVG 
@@ -447,6 +446,7 @@
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [stenalpjolly/bash-options](https://github.com/stenalpjolly/bash-options) - 
 - [bokuweb/react-rnd](https://github.com/bokuweb/react-rnd) - 🖱  A resizable and draggable component for React.
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
