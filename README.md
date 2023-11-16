@@ -450,7 +450,7 @@
 - [aidenybai/million](https://github.com/aidenybai/million) - Make React Faster. Automatically.
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
-- [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
+- [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate) - A tool to help migrate JavaScript code quickly and conveniently to TypeScript
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
