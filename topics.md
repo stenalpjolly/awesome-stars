@@ -109,6 +109,7 @@
 - [opencv](#opencv)
 - [osint](#osint)
 - [others](#others)
+- [p2p](#p2p)
 - [penetration-testing](#penetration-testing)
 - [pentesting](#pentesting)
 - [php](#php)
@@ -520,6 +521,7 @@
 
 ## go 
 
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -1000,6 +1002,10 @@
 - [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
 - [kiteco/issue-tracker](https://github.com/kiteco/issue-tracker) - User-reported issues for Kite
 - [mafintosh/playback](https://github.com/mafintosh/playback) - Video player built using electron and node.js
+
+## p2p 
+
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 
 ## penetration-testing 
 
