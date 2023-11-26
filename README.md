@@ -294,6 +294,7 @@
 
 ## Others 
 
+- [sergiomarotco/Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) - Best practices for segmentation of the corporate network of any company
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [GoogleCloudPlatform/anthos-service-mesh-samples](https://github.com/GoogleCloudPlatform/anthos-service-mesh-samples) - 
 - [milanm/Cloud-Product-Mapping](https://github.com/milanm/Cloud-Product-Mapping) - All major services between AWS, Azure, and GCP are mapped with links pointing to product home pages.
@@ -425,6 +426,7 @@
 
 ## TypeScript 
 
+- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [tldraw/make-real](https://github.com/tldraw/make-real) - Draw a ui and make it real
 - [codemodsquad/astx](https://github.com/codemodsquad/astx) - Super powerful structural search and replace for JavaScript and TypeScript to automate your refactoring
 - [custodian-sample-org/liftoff](https://github.com/custodian-sample-org/liftoff) - Mock Interview Simulator with AI-Powered Feedback
