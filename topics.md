@@ -895,6 +895,7 @@
 
 ## others 
 
+- [damo-vilab/AnyDoor](https://github.com/damo-vilab/AnyDoor) - Official implementations for paper: Anydoor: zero-shot object-level image customization
 - [MichaHoffmann/tree-sitter-hcl](https://github.com/MichaHoffmann/tree-sitter-hcl) - tree-sitter grammar for HCL
 - [sergiomarotco/Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) - Best practices for segmentation of the corporate network of any company
 - [judge0/judge0](https://github.com/judge0/judge0) - 🔥 The most advanced open-source online code execution system in the world.
