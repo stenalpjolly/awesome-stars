@@ -298,6 +298,7 @@
 
 ## Others 
 
+- [ossu/bioinformatics](https://github.com/ossu/bioinformatics) - :microscope: Path to a free self-taught education in Bioinformatics!
 - [sergiomarotco/Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) - Best practices for segmentation of the corporate network of any company
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [GoogleCloudPlatform/anthos-service-mesh-samples](https://github.com/GoogleCloudPlatform/anthos-service-mesh-samples) - 
