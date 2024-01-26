@@ -921,6 +921,7 @@
 
 ## others 
 
+- [jasonjmcghee/plock](https://github.com/jasonjmcghee/plock) - Use an LLM from anywhere you can type (uses Ollama by default, but can be used with anything that can write to stdout)
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
 - [opentofu/registry](https://github.com/opentofu/registry) - The all-new opentofu.org registry!
 - [GoogleCloudPlatform/terraform-google-tags](https://github.com/GoogleCloudPlatform/terraform-google-tags) - Create and manage Google Cloud Tags.
