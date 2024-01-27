@@ -151,6 +151,7 @@
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
+- [web-development](#web-development)
 - [website](#website)
 - [windows](#windows)
 - [wordpress](#wordpress)
@@ -1363,6 +1364,10 @@
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
+
+## web-development 
+
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 
 ## website 
 
