@@ -326,6 +326,7 @@
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [makers-for-life/makair](https://github.com/makers-for-life/makair) - 🫁 The world's first open-source ventilator tested on human patients. Mass-producible at a low cost (~2000€).
 - [shubheksha/companies-sponsoring-visas](https://github.com/shubheksha/companies-sponsoring-visas) - A list of companies that sponsor employees from other countries.
+- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [ianramzy/decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat) - 🚀 Zipcall- Acquired @ 250k users 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.
 - [thunlp/PLMpapers](https://github.com/thunlp/PLMpapers) - Must-read Papers on pre-trained language models.
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
@@ -499,7 +500,6 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [stenalpjolly/livepad](https://github.com/stenalpjolly/livepad) - 
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
-- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [cyrildiagne/ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) - Cut and paste your surroundings using AR
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [nodegui/react-nodegui](https://github.com/nodegui/react-nodegui) - Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀
