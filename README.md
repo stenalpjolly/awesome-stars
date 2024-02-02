@@ -271,7 +271,6 @@
 - [BinRoot/TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book) - Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.
 - [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
 - [rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) - The "Python Machine Learning (1st edition)"  book code repository and info resource
-- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 
 ## Kotlin 
 
@@ -395,6 +394,7 @@
 - [lengstrom/fast-style-transfer](https://github.com/lengstrom/fast-style-transfer) - TensorFlow CNN for fast style transfer ⚡🖥🎨🖼
 - [alexjc/neural-enhance](https://github.com/alexjc/neural-enhance) - Super Resolution for images using deep learning.
 - [magenta/magenta](https://github.com/magenta/magenta) - Magenta: Music and Art Generation with Machine Intelligence
+- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 
 ## R 
 
@@ -479,7 +479,7 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate) - A tool to help migrate JavaScript code quickly and conveniently to TypeScript
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [stenalpjolly/bash-options](https://github.com/stenalpjolly/bash-options) - 
