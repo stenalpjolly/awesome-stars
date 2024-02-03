@@ -964,7 +964,7 @@
 - [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
 - [t3-oss/create-t3-turbo](https://github.com/t3-oss/create-t3-turbo) - Clean and simple starter repo using the T3 Stack along with Expo React Native
 - [dair-ai/AI-Product-Index](https://github.com/dair-ai/AI-Product-Index) - A curated index to track AI-powered products.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [google/cdc-file-transfer](https://github.com/google/cdc-file-transfer) - Tools for synching and streaming files from Windows to Linux
 - [corkami/pics](https://github.com/corkami/pics) - File formats explanations, logos redrawing...
 - [blushft/go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
