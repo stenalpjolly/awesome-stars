@@ -930,6 +930,7 @@
 
 ## others 
 
+- [GoogleCloudPlatform/anthos-service-mesh-packages](https://github.com/GoogleCloudPlatform/anthos-service-mesh-packages) - Packaged configuration for setting up a Kubernetes cluster with Anthos Service Mesh features enabled
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
 - [opentofu/registry](https://github.com/opentofu/registry) - The all-new opentofu.org registry!
 - [GoogleCloudPlatform/terraform-google-tags](https://github.com/GoogleCloudPlatform/terraform-google-tags) - Create and manage Google Cloud Tags.
