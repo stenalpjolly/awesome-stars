@@ -91,6 +91,7 @@
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
+- [low-code](#low-code)
 - [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
@@ -791,6 +792,11 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 
+## low-code 
+
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+
 ## mac 
 
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
@@ -1012,7 +1018,7 @@
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [derv82/wifite2](https://github.com/derv82/wifite2) - Rewrite of the popular wireless network auditor, "wifite"
 - [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
-- [rdkcentral/meta-turris](https://github.com/rdkcentral/meta-turris) - External layer for turris omnia
+- [rdkcentral/meta-turris](https://github.com/rdkcentral/meta-turris) - [DEPRECATED] External layer for turris omnia
 - [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
 - [tomer8007/widevine-l3-decryptor](https://github.com/tomer8007/widevine-l3-decryptor) - A Chrome extension that demonstrates bypassing Widevine L3 DRM
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
