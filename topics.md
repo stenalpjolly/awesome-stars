@@ -38,6 +38,7 @@
 - [csharp](#csharp)
 - [css](#css)
 - [dart](#dart)
+- [data-analysis](#data-analysis)
 - [data-science](#data-science)
 - [data-structures](#data-structures)
 - [data-visualization](#data-visualization)
@@ -100,6 +101,7 @@
 - [microsoft](#microsoft)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
+- [natural-language-processing](#natural-language-processing)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
@@ -379,8 +381,13 @@
 - [flyerhq/flutter_chat_ui](https://github.com/flyerhq/flutter_chat_ui) - Actively maintained, community-driven chat UI implementation with an optional Firebase BaaS.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
+## data-analysis 
+
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
+
 ## data-science 
 
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) - The "Python Machine Learning (1st edition)"  book code repository and info resource
 
@@ -390,6 +397,7 @@
 
 ## data-visualization 
 
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 
 ## database 
@@ -402,6 +410,7 @@
 
 ## deep-learning 
 
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - NEW - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; OpenVINO &gt; CoreML &gt; TFLite
@@ -810,6 +819,7 @@
 
 ## machine-learning 
 
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
@@ -863,6 +873,10 @@
 ## mongodb 
 
 - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
+
+## natural-language-processing 
+
+- [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
 
 ## neural-network 
 
@@ -942,6 +956,7 @@
 
 ## others 
 
+- [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [Flipper-XFW/Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware) - The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!
 - [GoogleCloudPlatform/anthos-service-mesh-packages](https://github.com/GoogleCloudPlatform/anthos-service-mesh-packages) - Packaged configuration for setting up a Kubernetes cluster with Anthos Service Mesh features enabled
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
@@ -1117,6 +1132,7 @@
 
 ## python 
 
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [alexpovel/srgn](https://github.com/alexpovel/srgn) - A code surgeon for precise text and code transplantation. A marriage of `tr`/`sed`, `rg` and `tree-sitter`.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
