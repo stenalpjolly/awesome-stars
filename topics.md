@@ -75,6 +75,7 @@
 - [google-cloud](#google-cloud)
 - [graphql](#graphql)
 - [hacking](#hacking)
+- [hacking-tool](#hacking-tool)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
 - [html5](#html5)
@@ -631,6 +632,10 @@
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 
+## hacking-tool 
+
+- [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
+
 ## hacktoberfest 
 
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
@@ -967,7 +972,7 @@
 - [GoogleCloudPlatform/anthos-service-mesh-packages](https://github.com/GoogleCloudPlatform/anthos-service-mesh-packages) - Packaged configuration for setting up a Kubernetes cluster with Anthos Service Mesh features enabled
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
 - [opentofu/registry](https://github.com/opentofu/registry) - The all-new opentofu.org registry!
-- [GoogleCloudPlatform/terraform-google-tags](https://github.com/GoogleCloudPlatform/terraform-google-tags) - Create and manage Google Cloud Tags.
+- [GoogleCloudPlatform/terraform-google-tags](https://github.com/GoogleCloudPlatform/terraform-google-tags) - Create and manage Google Cloud Tags
 - [gunnarmorling/1brc](https://github.com/gunnarmorling/1brc) - 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
 - [ossu/bioinformatics](https://github.com/ossu/bioinformatics) - :microscope: Path to a free self-taught education in Bioinformatics!
 - [ali-vilab/AnyDoor](https://github.com/ali-vilab/AnyDoor) - Official implementations for paper: Anydoor: zero-shot object-level image customization
