@@ -457,6 +457,7 @@
 
 ## TypeScript 
 
+- [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
@@ -476,7 +477,7 @@
 - [sst/open-next](https://github.com/sst/open-next) - Open source Next.js serverless adapter
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [gofireflyio/validiac](https://github.com/gofireflyio/validiac) - ValidIaC combines the best open-source tools to help ensure Infrastructure-as-Code best practices, hygiene & security.
 - [ahzhezhe/terraform-generator](https://github.com/ahzhezhe/terraform-generator) - Generate Terraform configurations with Node.js.
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
