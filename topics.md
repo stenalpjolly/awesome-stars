@@ -983,6 +983,7 @@
 
 ## others 
 
+- [loof2736/scyfin](https://github.com/loof2736/scyfin) - Custom theme for Jellyfin WebUI
 - [getgrit/stdlib](https://github.com/getgrit/stdlib) - The GritQL standard library provides common patterns for refactoring and upgrading code.
 - [OpenInterpreter/01](https://github.com/OpenInterpreter/01) - The open-source language model computer
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
