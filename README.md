@@ -36,6 +36,7 @@
 - [R](#r)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [SCSS](#scss)
 - [SVG](#svg)
 - [Shell](#shell)
 - [Swift](#swift)
@@ -165,7 +166,7 @@
 - [hashicorp/go-plugin](https://github.com/hashicorp/go-plugin) - Golang plugin system over RPC.
 - [minamijoyo/tfschema](https://github.com/minamijoyo/tfschema) - A schema inspector for Terraform / OpenTofu providers
 - [hashicorp/terraform-exec](https://github.com/hashicorp/terraform-exec) - Terraform CLI commands via Go.
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Tfsec is now part of Trivy
 - [terraform-linters/tflint](https://github.com/terraform-linters/tflint) - A Pluggable Terraform Linter
 - [GoogleCloudPlatform/terraform-validator](https://github.com/GoogleCloudPlatform/terraform-validator) - Terraform Validator is not an officially supported Google product; it is a library for conversion of Terraform plan data to CAI Assets. If you have been using terraform-validator directly in the past,
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
@@ -437,6 +438,10 @@
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [mitsuhiko/similar](https://github.com/mitsuhiko/similar) - A high level diffing library for rust based on diffs
 - [haimgel/display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
+
+## SCSS 
+
+- [prayag17/JellySkin](https://github.com/prayag17/JellySkin) - Vibrante/minimal Jellyfin CSS using custom Icons and more!!, created for Jellyfin web :film_strip:, can be used by just one line.
 
 ## SVG 
 
