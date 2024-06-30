@@ -36,6 +36,7 @@
 - [cpp](#cpp)
 - [csharp](#csharp)
 - [css](#css)
+- [cybersecurity](#cybersecurity)
 - [dart](#dart)
 - [data](#data)
 - [data-analysis](#data-analysis)
@@ -386,6 +387,10 @@
 - [nodegui/react-nodegui](https://github.com/nodegui/react-nodegui) - Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀
 - [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
 - [picturepan2/spectre](https://github.com/picturepan2/spectre) - Spectre.css - A Lightweight, Responsive and Modern CSS Framework
+
+## cybersecurity 
+
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 
 ## dart 
 
@@ -891,7 +896,6 @@
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [jariz/Noti](https://github.com/jariz/Noti) - Receive Android notifications on your mac. (w/PushBullet) ⛺
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 
 ## markdown 
 
@@ -1157,6 +1161,7 @@
 ## pentesting 
 
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 
 ## php 
 
@@ -1488,7 +1493,6 @@
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [haimgel/display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [sachinchoolur/lightgallery-desktop](https://github.com/sachinchoolur/lightgallery-desktop) - A modern, electron and nodejs based image viewer for Mac, Windows and Linux.
 
