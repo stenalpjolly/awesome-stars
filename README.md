@@ -194,6 +194,7 @@
 
 ## HCL 
 
+- [terraform-google-modules/terraform-google-cloud-operations](https://github.com/terraform-google-modules/terraform-google-cloud-operations) - Manages Cloud Logging and Cloud Monitoring
 - [terraform-google-modules/terraform-google-kms](https://github.com/terraform-google-modules/terraform-google-kms) - Allows managing a keyring, zero or more keys in the keyring, and IAM role bindings on individual keys
 - [GoogleCloudPlatform/terraform-google-tags](https://github.com/GoogleCloudPlatform/terraform-google-tags) - Create and manage Google Cloud Tags
 - [tree-sitter-grammars/tree-sitter-hcl](https://github.com/tree-sitter-grammars/tree-sitter-hcl) - HCL grammar for tree-sitter
