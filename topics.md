@@ -1006,6 +1006,7 @@
 
 ## others 
 
+- [terraform-google-modules/terraform-google-cloud-operations](https://github.com/terraform-google-modules/terraform-google-cloud-operations) - Manages Cloud Logging and Cloud Monitoring
 - [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product.
 - [prayag17/JellySkin](https://github.com/prayag17/JellySkin) - Vibrante/minimal Jellyfin CSS using custom Icons and more!!, created for Jellyfin web :film_strip:, can be used by just one line.
 - [loof2736/scyfin](https://github.com/loof2736/scyfin) - Custom theme for Jellyfin WebUI
