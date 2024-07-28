@@ -324,6 +324,7 @@
 
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
+- [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [sibprogrammer/xq](https://github.com/sibprogrammer/xq) - Command-line XML and HTML beautifier and content extractor
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
@@ -377,7 +378,7 @@
 ## csharp 
 
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
-- [alexpovel/srgn](https://github.com/alexpovel/srgn) - A code surgeon for precise text and code transplantation. A marriage of `tr`/`sed`, `rg` and `tree-sitter`.
+- [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 
@@ -603,7 +604,7 @@
 
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
-- [alexpovel/srgn](https://github.com/alexpovel/srgn) - A code surgeon for precise text and code transplantation. A marriage of `tr`/`sed`, `rg` and `tree-sitter`.
+- [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
@@ -1218,7 +1219,7 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [alexpovel/srgn](https://github.com/alexpovel/srgn) - A code surgeon for precise text and code transplantation. A marriage of `tr`/`sed`, `rg` and `tree-sitter`.
+- [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
@@ -1320,7 +1321,7 @@
 
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-- [alexpovel/srgn](https://github.com/alexpovel/srgn) - A code surgeon for precise text and code transplantation. A marriage of `tr`/`sed`, `rg` and `tree-sitter`.
+- [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [mitsuhiko/similar](https://github.com/mitsuhiko/similar) - A high level diffing library for rust based on diffs
@@ -1453,7 +1454,7 @@
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-- [alexpovel/srgn](https://github.com/alexpovel/srgn) - A code surgeon for precise text and code transplantation. A marriage of `tr`/`sed`, `rg` and `tree-sitter`.
+- [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
 - [codemodsquad/astx](https://github.com/codemodsquad/astx) - Super powerful structural search and replace for JavaScript and TypeScript to automate your refactoring
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
