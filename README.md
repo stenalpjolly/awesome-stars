@@ -150,7 +150,7 @@
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [chainguard-dev/apko](https://github.com/chainguard-dev/apko) - Build OCI images from APK packages directly without Dockerfile
-- [pulumi/pulumi-terraform-bridge](https://github.com/pulumi/pulumi-terraform-bridge) - A library allowing providers built with the Terraform Plugin SDK to be bridged into Pulumi.
+- [pulumi/pulumi-terraform-bridge](https://github.com/pulumi/pulumi-terraform-bridge) - A library allowing Terraform providers to be bridged into Pulumi.
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - [GoogleCloudPlatform/guest-agent](https://github.com/GoogleCloudPlatform/guest-agent) - 
