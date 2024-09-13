@@ -1102,7 +1102,7 @@
 - [custodian-sample-org/liftoff](https://github.com/custodian-sample-org/liftoff) - Mock Interview Simulator with AI-Powered Feedback
 - [salesforce/CodeTF](https://github.com/salesforce/CodeTF) - CodeTF: One-stop Transformer Library for State-of-the-art Code LLM
 - [jcsalterego/pngpaste](https://github.com/jcsalterego/pngpaste) - Paste PNG into files, much like pbpaste does for text.
-- [jetstack/google-cas-issuer](https://github.com/jetstack/google-cas-issuer) - cert-manager issuer for Google CA Service
+- [cert-manager/google-cas-issuer](https://github.com/cert-manager/google-cas-issuer) - cert-manager issuer for Google CA Service
 - [SigNoz/flog](https://github.com/SigNoz/flog) - :tophat: A fake log generator for common log formats
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
