@@ -301,7 +301,7 @@
 
 ## Makefile 
 
-- [jetstack/google-cas-issuer](https://github.com/jetstack/google-cas-issuer) - cert-manager issuer for Google CA Service
+- [cert-manager/google-cas-issuer](https://github.com/cert-manager/google-cas-issuer) - cert-manager issuer for Google CA Service
 - [yaap/device_oneplus_dumpling](https://github.com/yaap/device_oneplus_dumpling) - 
 - [veficos/reverse-engineering-for-beginners](https://github.com/veficos/reverse-engineering-for-beginners) - translate project of Drops
 
