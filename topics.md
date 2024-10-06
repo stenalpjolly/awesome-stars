@@ -1309,6 +1309,7 @@
 
 ## react 
 
+- [damianricobelli/stepperize](https://github.com/damianricobelli/stepperize) - A library for creating step-by-step workflows in your apps
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
@@ -1336,6 +1337,7 @@
 
 ## react-native 
 
+- [damianricobelli/stepperize](https://github.com/damianricobelli/stepperize) - A library for creating step-by-step workflows in your apps
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [futurice/pepperoni-app-kit](https://github.com/futurice/pepperoni-app-kit) - Pepperoni - React Native App Starter Kit for Android and iOS
