@@ -371,6 +371,7 @@
 
 ## Python 
 
+- [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [Shpota/github-activity-generator](https://github.com/Shpota/github-activity-generator) - A script that helps generate a rich GitHub Contribution Graph for your account 🤖
 - [jishengpeng/WavTokenizer](https://github.com/jishengpeng/WavTokenizer) - SOTA discrete acoustic codec models with 40 tokens per second for audio language modeling
