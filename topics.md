@@ -1101,6 +1101,7 @@
 
 ## others 
 
+- [GoogleCloudPlatform/workflows-demos](https://github.com/GoogleCloudPlatform/workflows-demos) - A collection of Workflows samples for various use cases
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
