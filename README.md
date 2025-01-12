@@ -385,7 +385,7 @@
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data
 - [getgrit/stdlib](https://github.com/getgrit/stdlib) - The GritQL standard library provides common patterns for refactoring and upgrading code.
 - [OpenInterpreter/01](https://github.com/OpenInterpreter/01) - The #1 open-source voice interface for desktop, mobile, and ESP32 chips.
 - [openai/transformer-debugger](https://github.com/openai/transformer-debugger) - 
@@ -543,7 +543,7 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate) - A tool to help migrate JavaScript code quickly and conveniently to TypeScript
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [stenalpjolly/bash-options](https://github.com/stenalpjolly/bash-options) - 
