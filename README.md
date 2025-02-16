@@ -139,6 +139,7 @@
 
 ## Go 
 
+- [golang/go](https://github.com/golang/go) - The Go programming language
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
