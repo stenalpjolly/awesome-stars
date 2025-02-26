@@ -383,7 +383,7 @@
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [Shpota/github-activity-generator](https://github.com/Shpota/github-activity-generator) - A script that helps generate a rich GitHub Contribution Graph for your account 🤖
-- [jishengpeng/WavTokenizer](https://github.com/jishengpeng/WavTokenizer) - SOTA discrete acoustic codec models with 40 tokens per second for audio language modeling
+- [jishengpeng/WavTokenizer](https://github.com/jishengpeng/WavTokenizer) - [ICLR 2025] SOTA discrete acoustic codec models with 40/75 tokens per second for audio language modeling
 - [crewAIInc/crewAI-examples](https://github.com/crewAIInc/crewAI-examples) - A collection of examples that show how to use CrewAI framework to automate workflows.
 - [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 - [linux-automation/usbsdmux](https://github.com/linux-automation/usbsdmux) - USB-SD-Mux Project - Driver and Documentation
