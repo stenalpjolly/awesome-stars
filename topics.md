@@ -1145,6 +1145,7 @@
 
 ## others 
 
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [Nutlope/logocreator](https://github.com/Nutlope/logocreator) - A free + OSS logo generator powered by Flux on Together AI
 - [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Minimal reproduction of DeepSeek R1-Zero
 - [ossu/math](https://github.com/ossu/math) - 🧮  Path to a free self-taught education in Mathematics!
@@ -1171,7 +1172,7 @@
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [Flipper-XFW/Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware) - The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!
 - [GoogleCloudPlatform/anthos-service-mesh-packages](https://github.com/GoogleCloudPlatform/anthos-service-mesh-packages) - Packaged configuration for setting up a Kubernetes cluster with Anthos Service Mesh features enabled
-- [opentofu/registry](https://github.com/opentofu/registry) - The all-new opentofu.org registry!
+- [opentofu/registry](https://github.com/opentofu/registry) - Metadata and tooling for the OpenTofu registry
 - [GoogleCloudPlatform/terraform-google-tags](https://github.com/GoogleCloudPlatform/terraform-google-tags) - Create and manage Google Cloud Tags
 - [gunnarmorling/1brc](https://github.com/gunnarmorling/1brc) - 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
 - [ossu/bioinformatics](https://github.com/ossu/bioinformatics) - :microscope: Path to a free self-taught education in Bioinformatics!
