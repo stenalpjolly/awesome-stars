@@ -173,6 +173,7 @@
 - [text-to-speech](#text-to-speech)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui](#ui)
 - [virtual-reality](#virtual-reality)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
@@ -1239,7 +1240,6 @@
 - [github/codeql](https://github.com/github/codeql) - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security
 - [nopeslide/drawio_mermaid_plugin](https://github.com/nopeslide/drawio_mermaid_plugin) - Mermaid plugin for drawio desktop
 - [greena13/react-hotkeys](https://github.com/greena13/react-hotkeys) - Declarative hotkey and focus area management for React
-- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 - [joaoperfig/GRaNDPapA](https://github.com/joaoperfig/GRaNDPapA) - Generator of Rad Names from Decent Paper Acronyms
 - [sathishvj/awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications) - Google Cloud Platform Certification resources.
 - [terraform-google-modules/terraform-google-vm](https://github.com/terraform-google-modules/terraform-google-vm) - Provisions VMs in Google Cloud
@@ -1656,6 +1656,15 @@
 ## ubuntu 
 
 - [sachinchoolur/lightgallery-desktop](https://github.com/sachinchoolur/lightgallery-desktop) - A modern, electron and nodejs based image viewer for Mac, Windows and Linux.
+
+## ui 
+
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
+- [flyerhq/flutter_chat_ui](https://github.com/flyerhq/flutter_chat_ui) - Free and open-source chat SDK. Build fast, real-time apps and generative AI agents with a high-performance, customizable, cross-platform UI.
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
+- [schenkd/nginx-ui](https://github.com/schenkd/nginx-ui) - Nginx UI allows you to access and modify the nginx configurations files without cli.
 
 ## virtual-reality 
 
