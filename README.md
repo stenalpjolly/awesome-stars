@@ -507,7 +507,7 @@
 
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Privacy-first AI Notepad for back-to-back meetings
 - [Nutlope/logocreator](https://github.com/Nutlope/logocreator) - A free + OSS logo generator powered by Flux on Together AI
@@ -517,7 +517,7 @@
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [origin-space/originui](https://github.com/origin-space/originui) - Origin UI is an extensive collection of copy-and-paste components for quickly building application UIs. Powered by Tailwind CSS and React.
 - [sersavan/shadcn-multi-select-component](https://github.com/sersavan/shadcn-multi-select-component) - A multi-select component designed with shadcn/ui
-- [damianricobelli/stepperize](https://github.com/damianricobelli/stepperize) - A library for creating step-by-step workflows in your apps
+- [damianricobelli/stepperize](https://github.com/damianricobelli/stepperize) - A type safe library for building step-by-steps workflows
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - Redis GUI by Redis
