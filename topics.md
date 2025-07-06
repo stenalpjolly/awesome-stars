@@ -213,7 +213,7 @@
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
-- [orkestral/venom](https://github.com/orkestral/venom) - Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on 
+- [vynect/venom](https://github.com/vynect/venom) - 🚀 Venom by VYNECT™ Open-source JavaScript library for safe, ethical WhatsApp testing and automation. Automate conversations, simulate interactions, and test media sending and receiving.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
 ## algorithm 
@@ -322,7 +322,7 @@
 
 ## bot 
 
-- [orkestral/venom](https://github.com/orkestral/venom) - Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on 
+- [vynect/venom](https://github.com/vynect/venom) - 🚀 Venom by VYNECT™ Open-source JavaScript library for safe, ethical WhatsApp testing and automation. Automate conversations, simulate interactions, and test media sending and receiving.
 
 ## c 
 
@@ -343,7 +343,7 @@
 
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-- [orkestral/venom](https://github.com/orkestral/venom) - Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on 
+- [vynect/venom](https://github.com/vynect/venom) - 🚀 Venom by VYNECT™ Open-source JavaScript library for safe, ethical WhatsApp testing and automation. Automate conversations, simulate interactions, and test media sending and receiving.
 
 ## chatgpt 
 
@@ -633,7 +633,7 @@
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
-- [orkestral/venom](https://github.com/orkestral/venom) - Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on 
+- [vynect/venom](https://github.com/vynect/venom) - 🚀 Venom by VYNECT™ Open-source JavaScript library for safe, ethical WhatsApp testing and automation. Automate conversations, simulate interactions, and test media sending and receiving.
 
 ## frameworks 
 
