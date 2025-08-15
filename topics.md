@@ -323,7 +323,7 @@
 ## bash 
 
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-- [jasonjmcghee/plock](https://github.com/jasonjmcghee/plock) - From anywhere you can type, query and stream the output of an LLM or any other script
+- [jasonjmcghee/plock](https://github.com/jasonjmcghee/plock) - From anywhere you can type, query and stream the output of any script (e.g. an LLM)
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 
 ## bot 
@@ -996,7 +996,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
-- [jasonjmcghee/plock](https://github.com/jasonjmcghee/plock) - From anywhere you can type, query and stream the output of an LLM or any other script
+- [jasonjmcghee/plock](https://github.com/jasonjmcghee/plock) - From anywhere you can type, query and stream the output of any script (e.g. an LLM)
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -1586,7 +1586,7 @@
 ## shell 
 
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-- [jasonjmcghee/plock](https://github.com/jasonjmcghee/plock) - From anywhere you can type, query and stream the output of an LLM or any other script
+- [jasonjmcghee/plock](https://github.com/jasonjmcghee/plock) - From anywhere you can type, query and stream the output of any script (e.g. an LLM)
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
