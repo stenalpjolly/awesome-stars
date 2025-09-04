@@ -131,6 +131,7 @@
 - [npm](#npm)
 - [objective-c](#objective-c)
 - [obsidian-md](#obsidian-md)
+- [open-data](#open-data)
 - [open-source](#open-source)
 - [openai](#openai)
 - [opencv](#opencv)
@@ -753,6 +754,7 @@
 
 ## google 
 
+- [codyogden/killedbygoogle](https://github.com/codyogden/killedbygoogle) - Part guillotine, part graveyard for Google's doomed apps, services, and hardware.
 - [milanm/Cloud-Product-Mapping](https://github.com/milanm/Cloud-Product-Mapping) - All major services between AWS, Azure, and GCP are mapped with links pointing to product home pages.
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
@@ -784,6 +786,7 @@
 
 ## hacktoberfest 
 
+- [codyogden/killedbygoogle](https://github.com/codyogden/killedbygoogle) - Part guillotine, part graveyard for Google's doomed apps, services, and hardware.
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [linux-automation/usbsdmux](https://github.com/linux-automation/usbsdmux) - USB-SD-Mux Project - Driver and Documentation
@@ -928,6 +931,7 @@
 
 ## json 
 
+- [codyogden/killedbygoogle](https://github.com/codyogden/killedbygoogle) - Part guillotine, part graveyard for Google's doomed apps, services, and hardware.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
@@ -1174,6 +1178,10 @@
 ## obsidian-md 
 
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
+
+## open-data 
+
+- [codyogden/killedbygoogle](https://github.com/codyogden/killedbygoogle) - Part guillotine, part graveyard for Google's doomed apps, services, and hardware.
 
 ## open-source 
 
@@ -1470,6 +1478,7 @@
 
 ## react 
 
+- [codyogden/killedbygoogle](https://github.com/codyogden/killedbygoogle) - Part guillotine, part graveyard for Google's doomed apps, services, and hardware.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
