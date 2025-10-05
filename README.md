@@ -490,7 +490,7 @@
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [shanept/framebuffer-vnc-server](https://github.com/shanept/framebuffer-vnc-server) - Linux VNC server operating off the framebuffer
-- [rdkcentral/meta-turris](https://github.com/rdkcentral/meta-turris) - [DEPRECATED] External layer for turris omnia
+- [rdkcmf/meta-turris](https://github.com/rdkcmf/meta-turris) - [DEPRECATED] External layer for turris omnia
 - [vitalysim/totalrecon](https://github.com/vitalysim/totalrecon) - TotalRecon installs all the recon tools you need
 
 ## Starlark 
