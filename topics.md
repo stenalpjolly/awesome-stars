@@ -1243,7 +1243,6 @@
 
 ## others 
 
-- [flutter/gemini-cli-extension](https://github.com/flutter/gemini-cli-extension) - An extension for Gemini CLI that assists with creating and maintaining Flutter code.
 - [GoogleCloudPlatform/backup-dr-samples](https://github.com/GoogleCloudPlatform/backup-dr-samples) - 
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
