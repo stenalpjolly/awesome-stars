@@ -481,7 +481,6 @@
 
 ## Shell 
 
-- [flutter/gemini-cli-extension](https://github.com/flutter/gemini-cli-extension) - An extension for Gemini CLI that assists with creating and maintaining Flutter code.
 - [GoogleCloudPlatform/backup-dr-samples](https://github.com/GoogleCloudPlatform/backup-dr-samples) - 
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
