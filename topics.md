@@ -1254,7 +1254,7 @@
 
 ## others 
 
-- [GoogleCloudPlatform/backup-dr-samples](https://github.com/GoogleCloudPlatform/backup-dr-samples) - 
+- [GoogleCloudPlatform/storage-samples](https://github.com/GoogleCloudPlatform/storage-samples) - 
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 - [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers.
