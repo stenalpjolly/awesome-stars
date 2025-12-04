@@ -129,7 +129,7 @@
 
 ## Dart 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
 - [flyerhq/flutter_chat_ui](https://github.com/flyerhq/flutter_chat_ui) - Free and open-source chat SDK. Build fast, real-time apps and generative AI agents with a high-performance, customizable, cross-platform UI.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
@@ -211,7 +211,6 @@
 
 ## HTML 
 
-- [google/adk-docs](https://github.com/google/adk-docs) - An open-source, code-first toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [judge0/judge0](https://github.com/judge0/judge0) - Robust and scalable online code execution system.
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
@@ -222,7 +221,6 @@
 
 ## Java 
 
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [gunnarmorling/1brc](https://github.com/gunnarmorling/1brc) - 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
 - [obiscr/ChatGPT](https://github.com/obiscr/ChatGPT) - This project is a plugin that supports ChatGPT running on JetBrains series IDE.
 - [airbnb/lottie-android](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS, Web, and React Native
@@ -484,6 +482,7 @@
 
 ## Shell 
 
+- [google/adk-docs](https://github.com/google/adk-docs) - An open-source, code-first toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [GoogleCloudPlatform/storage-samples](https://github.com/GoogleCloudPlatform/storage-samples) - 
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
@@ -536,6 +535,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [redis/RedisInsight](https://github.com/redis/RedisInsight) - Redis GUI by Redis
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
