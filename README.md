@@ -243,6 +243,7 @@
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [joolfe/postman-to-openapi](https://github.com/joolfe/postman-to-openapi) - 🛸 Convert postman collection to OpenAPI
+- [apigee/devrel](https://github.com/apigee/devrel) - Common solutions and tools developed for Apigee
 - [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language.
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
@@ -487,7 +488,6 @@
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [GoogleCloudPlatform/anthos-service-mesh-packages](https://github.com/GoogleCloudPlatform/anthos-service-mesh-packages) - Packaged configuration for setting up a Kubernetes cluster with Anthos Service Mesh features enabled
-- [apigee/devrel](https://github.com/apigee/devrel) - Common solutions and tools developed for Apigee
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [shanept/framebuffer-vnc-server](https://github.com/shanept/framebuffer-vnc-server) - Linux VNC server operating off the framebuffer
@@ -574,7 +574,7 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate) - A tool to help migrate JavaScript code quickly and conveniently to TypeScript
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [stenalpjolly/bash-options](https://github.com/stenalpjolly/bash-options) - 
