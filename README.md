@@ -140,6 +140,7 @@
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
+- [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [opentofu/registry](https://github.com/opentofu/registry) - Metadata and tooling for the OpenTofu registry
@@ -147,7 +148,7 @@
 - [env0/terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute resource
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [chainguard-dev/apko](https://github.com/chainguard-dev/apko) - Build OCI images from APK packages directly without Dockerfile
 - [pulumi/pulumi-terraform-bridge](https://github.com/pulumi/pulumi-terraform-bridge) - A library allowing Terraform providers to be bridged into Pulumi.
@@ -236,7 +237,6 @@
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
 - [rstacruz/onmount](https://github.com/rstacruz/onmount) - Safe, reliable, idempotent and testable behaviors for DOM nodes
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
-- [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
