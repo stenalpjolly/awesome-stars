@@ -72,6 +72,7 @@
 - [english](#english)
 - [es6](#es6)
 - [express](#express)
+- [fastapi](#fastapi)
 - [firebase](#firebase)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -700,6 +701,10 @@
 ## express 
 
 - [sonyseng/json-caching-proxy](https://github.com/sonyseng/json-caching-proxy) - Node caching HTTP proxy built on top of express-http-proxy. Persists requests and responses to an in-memory HAR-like data structure based on HAR1.2 . Caches JSON content-type responses by default with
+
+## fastapi 
+
+- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 
 ## firebase 
 
