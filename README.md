@@ -226,7 +226,7 @@
 
 ## Java 
 
-- [googleapis/mcp-toolbox-sdk-java](https://github.com/googleapis/mcp-toolbox-sdk-java) - 
+- [googleapis/mcp-toolbox-sdk-java](https://github.com/googleapis/mcp-toolbox-sdk-java) - Java SDK for interacting with the MCP Toolbox for Databases.
 - [gunnarmorling/1brc](https://github.com/gunnarmorling/1brc) - 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
 - [obiscr/ChatGPT](https://github.com/obiscr/ChatGPT) - This project is a plugin that supports ChatGPT running on JetBrains series IDE.
 - [airbnb/lottie-android](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS, Web, and React Native
