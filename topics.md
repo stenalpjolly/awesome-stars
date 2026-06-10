@@ -1120,7 +1120,6 @@
 
 ## linux 
 
-- [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - On-device subtitle generation that connects directly to DaVinci Resolve, Premiere, and After Effects.
 - [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
@@ -1164,7 +1163,6 @@
 
 ## mac 
 
-- [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - On-device subtitle generation that connects directly to DaVinci Resolve, Premiere, and After Effects.
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [sachinchoolur/lightgallery-desktop](https://github.com/sachinchoolur/lightgallery-desktop) - A modern, electron and nodejs based image viewer for Mac, Windows and Linux.
@@ -1738,6 +1736,7 @@
 
 ## rust 
 
+- [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - On-device subtitle generation that connects directly to DaVinci Resolve, Premiere, and After Effects.
 - [fastrepl/anarlog](https://github.com/fastrepl/anarlog) - Open source Granola AI Alternative
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -2006,7 +2005,6 @@
 
 ## windows 
 
-- [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - On-device subtitle generation that connects directly to DaVinci Resolve, Premiere, and After Effects.
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
