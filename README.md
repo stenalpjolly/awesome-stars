@@ -31,6 +31,7 @@
 - [Open Policy Agent](#open-policy-agent)
 - [Others](#others)
 - [PHP](#php)
+- [Pascal](#pascal)
 - [PowerShell](#powershell)
 - [Python](#python)
 - [R](#r)
@@ -376,6 +377,10 @@
 
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
+
+## Pascal 
+
+- [URUWorks/TeroSubtitler](https://github.com/URUWorks/TeroSubtitler) - Tero Subtitler is an open source, cross-platform, and free subtitle editing software.
 
 ## PowerShell 
 
