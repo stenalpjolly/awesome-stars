@@ -1419,6 +1419,7 @@
 
 ## others 
 
+- [microsoft/ZoomitForMac](https://github.com/microsoft/ZoomitForMac) - Sysinternals ZoomIt for MacOS
 - [stenalpjolly/llm-skills](https://github.com/stenalpjolly/llm-skills) - 
 - [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
