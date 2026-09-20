@@ -343,7 +343,7 @@
 
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
-- [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
+- [mswjs/msw](https://github.com/mswjs/msw) - The industry standard for API mocking in JavaScript.
 
 ## arduino 
 
