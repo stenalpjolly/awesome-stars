@@ -221,6 +221,7 @@
 - [website](#website)
 - [whatsapp-bot](#whatsapp-bot)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [wordpress](#wordpress)
 - [workflow](#workflow)
 - [xcode](#xcode)
@@ -2094,6 +2095,11 @@
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [sachinchoolur/lightgallery-desktop](https://github.com/sachinchoolur/lightgallery-desktop) - A modern, electron and nodejs based image viewer for Mac, Windows and Linux.
+
+## windows-11 
+
+- [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
+- [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 
 ## wordpress 
 
