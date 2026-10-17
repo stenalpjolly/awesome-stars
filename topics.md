@@ -1445,6 +1445,7 @@
 
 ## others 
 
+- [android/skills](https://github.com/android/skills) - 
 - [stenalpjolly/llm-skills](https://github.com/stenalpjolly/llm-skills) - 
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [microsoft/Zoomit-Mac](https://github.com/microsoft/Zoomit-Mac) - Sysinternals ZoomIt for MacOS
