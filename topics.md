@@ -341,6 +341,7 @@
 
 ## android 
 
+- [ShubhamJ010/ghost-hid](https://github.com/ShubhamJ010/ghost-hid) - Turn your Android device into a Bluetooth mouse, keyboard, trackpad, macro deck & raw HID payload injector for Windows, Mac, and Linux. No PC server needed.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
@@ -1159,6 +1160,7 @@
 
 ## jetpack-compose 
 
+- [ShubhamJ010/ghost-hid](https://github.com/ShubhamJ010/ghost-hid) - Turn your Android device into a Bluetooth mouse, keyboard, trackpad, macro deck & raw HID payload injector for Windows, Mac, and Linux. No PC server needed.
 - [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) - 🗺 The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems.
 
 ## js 
