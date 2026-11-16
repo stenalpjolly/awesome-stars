@@ -305,6 +305,7 @@
 
 ## Kotlin 
 
+- [ShubhamJ010/ghost-hid](https://github.com/ShubhamJ010/ghost-hid) - Turn your Android device into a Bluetooth mouse, keyboard, trackpad, macro deck & raw HID payload injector for Windows, Mac, and Linux. No PC server needed.
 - [android/skills](https://github.com/android/skills) - 
 - [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) - 🗺 The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems.
 - [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
